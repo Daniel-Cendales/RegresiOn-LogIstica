@@ -1,2 +1,2 @@
 # Ignoramos los .ipynb
-*.ipynb
+*.ipynb*
